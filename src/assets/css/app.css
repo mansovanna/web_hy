@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Moul&family=Noto+Serif+Khmer:wght@100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-success-dark: #007044;
+  --color-success: #00a85a;
+  --color--warning: #00a85a;
+  --font-noto-serif-khmer: 'Noto Serif Khmer', 'serif';
+  --font-roboto: 'Roboto', 'sans-serif';
+  --font-roboto-slab: 'Roboto Slab', 'serif';
+  --font-moul: 'Moul', serif;
+  --font-kantumruy-pro: 'Kantumruy Pro', 'sans-serif';
+  --font-noto-serif-khmer: 'Noto Serif Khmer', 'serif';
+}
